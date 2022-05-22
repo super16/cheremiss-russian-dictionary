@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Черемисско-русский словарь</title>
+        <author>В. П. Троицкий</author>
+      </titleStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Черемисско-русскій словарь</title>
+          <author>В. П. Троицкій</author>
+          <publisher>
+            Типо-литографія Императорскаго Университета
+          </publisher>
+          <pubPlace>Казань</pubPlace>
+          <date when="1895">1895</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <xi:include href="src/a.xml"/>
+      <xi:include href="src/v.xml"/>
+      <xi:include href="src/g.xml"/>
+      <xi:include href="src/d.xml"/>
+      <xi:include href="src/e.xml"/>
+      <xi:include href="src/zhe.xml"/>
+      <xi:include href="src/z.xml"/>
+      <xi:include href="src/izhe.xml"/>
+      <xi:include href="src/i.xml"/>
+      <xi:include href="src/ya.xml"/>
+      <xi:include href="src/yo.xml"/>
+      <xi:include href="src/yu.xml"/>
+      <xi:include href="src/y-yeru.xml"/>
+      <xi:include href="src/k.xml"/>
+      <xi:include href="src/l.xml"/>
+      <xi:include href="src/m.xml"/>
+      <xi:include href="src/n.xml"/>
+      <xi:include href="src/o.xml"/>
+      <xi:include href="src/o-diaeresis.xml"/>
+      <xi:include href="src/p.xml"/>
+      <xi:include href="src/r.xml"/>
+      <xi:include href="src/s.xml"/>
+      <xi:include href="src/t.xml"/>
+      <xi:include href="src/u.xml"/>
+      <xi:include href="src/u-diaeresis.xml"/>
+      <xi:include href="src/kh.xml"/>
+      <xi:include href="src/tse.xml"/>
+      <xi:include href="src/che.xml"/>
+      <xi:include href="src/sha.xml"/>
+      <xi:include href="src/yeru-diaeresis.xml"/>
+      <xi:include href="src/backwards-e.xml"/>
+    </body>
+  </text>
+</TEI>
