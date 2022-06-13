@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>Р</head>
+  <entry>
+    <form>
+      <orth>Раба́</orth>
+    </form>
+    <sense>
+      <usg type="dom">Земл.</usg>
+      <usg type="lang">г.чер.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>тычина</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>Е</head>
+  <entry>
+    <form>
+      <orth>Еле́м</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>клей</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>елемле́м</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>клею</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
 </div>

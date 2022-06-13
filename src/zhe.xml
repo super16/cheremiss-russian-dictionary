@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>Ж</head>
+  <entry>
+    <form>
+      <orth>Жап</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>время</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

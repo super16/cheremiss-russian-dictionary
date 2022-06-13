@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>Ӧ</head>
+  <entry>
+    <form>
+      <orth>Ӧрдӧ</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>сторона</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>ӧрдӧшто кошта́м</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>странствую</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
 </div>

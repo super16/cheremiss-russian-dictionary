@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>ЙА=Я</head>
+  <entry>
+    <form>
+      <orth>Йа</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>или</quote>
+      </cit>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>да</quote>
+      </cit>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>такъ</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

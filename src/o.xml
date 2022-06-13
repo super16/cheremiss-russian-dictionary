@@ -1,4 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>О</head>
+  <entry>
+    <form>
+      <orth>Ова́рче</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>лепешки</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <usg type="dom">Кр. Яр.</usg>
+        <quote>ношмӧ-ова́рче</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>супъ изъ конопляныхъ сѣмянъ</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Овдя́</orth>
+    </form>
+    <etym>
+      <usg type="lang">чув.</usg>
+      <lang>чув.</lang>
+      <mentioned>обыде́</mentioned>
+    </etym>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>обезьяна</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>Г</head>
+  <entry>
+    <form>
+      <orth>Га́е</orth>
+      <orth>Гая́к</orth>
+      <orth>Га́не</orth>
+      <orth>Ганя́к</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>словно, какъ будто</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>У</head>
+  <entry>
+    <form>
+      <orth>У</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>новый</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

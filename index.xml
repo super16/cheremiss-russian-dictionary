@@ -53,7 +53,7 @@
       <xi:include href="src/tse.xml"/>
       <xi:include href="src/che.xml"/>
       <xi:include href="src/sha.xml"/>
-      <xi:include href="src/yeru-diaeresis.xml"/>
+      <xi:include href="src/yeru-breve.xml"/>
       <xi:include href="src/backwards-e.xml"/>
     </body>
   </text>

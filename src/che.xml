@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>Ч</head>
+  <entry>
+    <form>
+      <orth>Чагаэ́м</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>перекоряюсь</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

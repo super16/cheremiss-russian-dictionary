@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>П</head>
+  <entry>
+    <form>
+      <orth>Паго́р</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>багоръ</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
   <head>В</head>
+  <entry>
+    <form>
+      <orth>Ва́да</orth>
+    </form>
+    <sense>
+      <usg type="lang">г.чер.</usg>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>вечеръ</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>
