@@ -12,4 +12,40 @@
       <ref>вачре́ҥе</ref>
     </xr>
   </entry>
+  <entry>
+    <form>
+      <orth>Зерля́</orth>
+    </form>
+    <sense>
+      <usg type="lang">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>ядъ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Зюлюкта́ш</orth>
+      <orth>зязяш</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>лущить</quote>
+      </cit>
+    </sense>
+    <xr>
+      <ref>сюнгзе́м</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Зя</orth>
+    </form>
+    <xr>
+      <ref>изя́й</ref>
+    </xr>
+    <xr>
+      <ref>ы̆зя́й</ref>
+    </xr>
+  </entry>
 </div>

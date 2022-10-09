@@ -11,4 +11,32 @@
       </cit>
     </sense>
   </entry>
+  <entry>
+    <form>
+      <orth>Изяй</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>Старшій брат и дядя моложе отца</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>изя́к-шоля́к</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>братья</quote>
+        </cit>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>изя́к-шоля́к-ла</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>по братски</quote>
+        </cit>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>кугуза́й</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>Дядя старше отца</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
 </div>

@@ -13,4 +13,20 @@
       </cit>
     </sense>
   </entry>
+  <entry>
+    <form>
+      <orth>Тӳрве́</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>губа</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>тӳрвӳнча́м чишу</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>фыркаю</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
 </div>

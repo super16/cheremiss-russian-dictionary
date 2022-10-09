@@ -3,11 +3,121 @@
   <head>Д</head>
   <entry>
     <form>
+      <orth>Доно</orth>
+    </form>
+    <sense>
+      <sense>
+        <usg type="dom">Крок.</usg>
+        <quote>дэнэ</quote>
+      </sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>безъ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Доко</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+    </sense>
+    <xr>
+      <ref>дэкэ</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Дора́м</orth>
+      <orth>Дуре́</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>у, передъ, противъ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Дӹрьбя</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+    </sense>
+    <xr>
+      <ref>тӳрве</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Дэ</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>послѣсловіе, безъ (съ именами существительными), не (съ глаголомъ)</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Дэбре</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>при, къ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
       <orth>Дэкэ</orth>
     </form>
     <sense>
       <cit type="translation" xml:lang="ru-petr1708">
         <quote>къ, за</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Дэла́н</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>у, при</quote>
+      </cit>
+    </sense>
+    <xr>
+      <ref>тэря́н</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Демы̆л</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>клубника</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Демы̆ж</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>овощи, фрукты</quote>
+      </cit>
+    </sense>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>малина</quote>
       </cit>
     </sense>
   </entry>
