@@ -3,12 +3,206 @@
   <head>Ж</head>
   <entry>
     <form>
+      <orth>Жава́</orth>
+    </form>
+    <etym>
+      <usg type="lang">чув.</usg>
+      <lang>чув.</lang>
+      <mentioned>шаба</mentioned>
+    </etym>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>жаба, лягушка</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>жава́-шудо</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>трефоль</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жалаэ́м</orth>
+    </form>
+    <etym>
+      <usg type="lang">чув.</usg>
+      <lang>чув.</lang>
+      <mentioned>шаль</mentioned>
+    </etym>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>жалѣю</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жалга</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>синій</quote>
+      </cit>
+    </sense>
+    <xr>
+      <ref>жаргэ</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
       <orth>Жап</orth>
     </form>
     <sense>
       <usg type="dom">Вас.</usg>
       <cit type="translation" xml:lang="ru-petr1708">
         <quote>время</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жаплэ́м</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>почитаю</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>жаплыйым</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>защищаю</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жгӓрь</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+    </sense>
+    <xr>
+      <ref>узьгӓрь</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жаргэ</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>зеленый</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жӓрӓ</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>заря</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>Жӓрӓ волгы̆до шы̆ды̆р</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>Венера, утренняя звѣзда</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жепляш</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+    </sense>
+    <xr>
+      <ref>жаплэ́м</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жепя</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>состояніе</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жеря́</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+    </sense>
+    <xr>
+      <ref>жӓрӓ</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жогол</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>ухватъ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жны̆</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>отрицаніе не, — ставится въ пов. накл. 3 л.</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>жны-ка́е</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>чтобы онъ, она не уходилъ, — а</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жы̆м</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>отриц. не, — ставится въ 1 л. ед. ч. прош. вр.</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жна</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>отриц. не, — ставится въ 1 л. мн. ч. прош. вр.</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Жы̆ч</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>отриц. не, — ставится во 2 л. ед. ч. пр. вр.</quote>
       </cit>
     </sense>
   </entry>

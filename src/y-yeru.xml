@@ -11,4 +11,39 @@
       </cit>
     </sense>
   </entry>
+  <entry>
+    <form>
+      <orth>Йӹгы̆лта́м</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>насмѣхаюсь, издѣваюсь, дразню</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Йӹдэ́</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>каждый</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Йӹш</orth>
+    </form>
+    <etym>
+      <usg type="lang">чув.</usg>
+      <lang>чув.</lang>
+      <mentioned>йыш</mentioned>
+    </etym>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>семья</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

@@ -18,4 +18,90 @@
       </cit>
     </sense>
   </entry>
+  <entry>
+    <form>
+      <orth>Емы̆ж</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+    </sense>
+    <xr>
+      <ref>демы̆ж</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Екшӳк</orth>
+    </form>
+    <xr>
+      <ref>ары̆пты̆ш</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ерга́</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>узоръ, разшиваемый на женскомъ бѣльѣ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ерге́</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>рядъ бревенъ въ строеніи</quote>
+      </cit>
+      <cit type="example" xml:lang="chm">
+        <quote>ерге́-черь</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>повальная болѣзнь, эпидемія</quote>
+        </cit>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ерь</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>озеро</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ече</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>лыжи</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Еш</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+    </sense>
+    <xr>
+      <ref>йӹш</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ерр-ер</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>коньки</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>

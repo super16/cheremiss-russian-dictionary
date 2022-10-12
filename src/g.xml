@@ -14,4 +14,75 @@
       </cit>
     </sense>
   </entry>
+  <entry>
+    <form>
+      <orth>Ге́рге ёга́</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>регулы идутъ</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Го́дом</orth>
+    </form>
+    <sense>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>послѣсловіе — во время</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Гоч</orth>
+    </form>
+    <sense>
+      <usg type="dom">Вас.</usg>
+    </sense>
+    <xr>
+      <ref>коч</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Гигильта́м</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+    </sense>
+    <xr>
+      <ref>йӹгы̆лта́м</ref>
+    </xr>
+  </entry>
+  <entry>
+    <form>
+      <orth>Гидӓҥь</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>тетива жильная</quote>
+      </cit>
+    </sense>
+  </entry>
+  <entry>
+    <form>
+      <orth>Гидэ́</orth>
+    </form>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="example" xml:lang="chm">
+        <quote>гидэо́к</quote>
+        <cit type="translation" xml:lang="ru-petr1708">
+          <quote>по исполненіи</quote>
+        </cit>
+      </cit>
+    </sense>
+    <xr>
+      <ref>йӹдэ́</ref>
+    </xr>
+  </entry>
 </div>

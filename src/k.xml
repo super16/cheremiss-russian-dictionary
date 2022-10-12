@@ -12,4 +12,20 @@
       </cit>
     </sense>
   </entry>
+  <entry>
+    <form>
+      <orth>Коч</orth>
+    </form>
+    <etym>
+      <usg type="lang">г.чер.</usg>
+      <lang>г.чер.</lang>
+      <mentioned>гач</mentioned>
+    </etym>
+    <sense>
+      <usg type="dom">Крок.</usg>
+      <cit type="translation" xml:lang="ru-petr1708">
+        <quote>поперекъ</quote>
+      </cit>
+    </sense>
+  </entry>
 </div>
